@@ -10,7 +10,7 @@
 
 4.打开config.py修改相关配置（邮箱刷新频率等）
 
-5.命令窗口输入命令 `python Mainactivity` 
+5.命令窗口输入命令 `python Mainactivity.py` 
 
 #### 功能说明：
 
