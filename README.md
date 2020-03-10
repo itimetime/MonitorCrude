@@ -24,7 +24,7 @@
 
 #### config配置文件说明：
 
-![image-20200310160206462](C:\Users\Colin\AppData\Roaming\Typora\typora-user-images\image-20200310160206462.png)
+![image-20200310160206462](\picture\image-20200310160206462.png)
 
 #### 相关截图
 
