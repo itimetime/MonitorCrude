@@ -24,10 +24,10 @@
 
 #### config配置文件说明：
 
-![image-20200310160206462](\picture\image-20200310160206462.png)
+![image-20200310160206462](https://github.com/itimetime/MonitorCrude/blob/master/picture/image-20200310160206462.png)
 
 #### 相关截图
 
-![image-20200310160639902](C:\Users\Colin\AppData\Roaming\Typora\typora-user-images\image-20200310160639902.png)
+![image-20200310160639902](https://github.com/itimetime/MonitorCrude/blob/master/picture/image-20200310160639902.png)
 
-![image-20200310160559248](C:\Users\Colin\AppData\Roaming\Typora\typora-user-images\image-20200310160559248.png)
+![image-20200310160559248](https://github.com/itimetime/MonitorCrude/blob/master/picture/image-20200310160559248.png)
